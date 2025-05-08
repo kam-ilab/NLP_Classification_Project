@@ -1,0 +1,6 @@
+#ignore raw data files
+Data/raw/
+
+#ignore data processing files
+DataProcessor.py
+split_and_load_the_dataset.py
